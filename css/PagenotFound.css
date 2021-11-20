@@ -1,0 +1,15 @@
+#wrapper{
+    display:grid;
+    height: 100vh;
+    place-items: center;
+}
+#wrapper > img{
+    height: 500px;
+    width: 500px;
+}
+
+#info > h3 {
+    font-size:35px;
+    text-transform: capitalize;
+
+}
